@@ -1,3 +1,6 @@
 [submodule "Socket-Programming-and-Wireless-Network"]
 	path = Socket-Programming-and-Wireless-Network
 	url = https://github.com/amirmahdiansaripour/Socket-Programming-and-Wireless-Network
+[submodule "Congestion-Avoidance-DVRP-and-Slow-Start-Protocol-"]
+	path = Congestion-Avoidance-DVRP-and-Slow-Start-Protocol-
+	url = https://github.com/amirmahdiansaripour/Congestion-Avoidance-DVRP-and-Slow-Start-Protocol-
